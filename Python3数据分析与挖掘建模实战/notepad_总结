@@ -1,0 +1,12 @@
+判断异常值：
+amh_s[amh_s<amh_s.quantile(0.75)+1.5*(amh_s.quantile(0.75)-amh_s.quantile(0.25))][amh_s>amh_s.quantile(0.25)-1.5*(amh_s.quantile(0.75)-amh_s.quantile(0.25))]
+处理某个异常值
+s_s.where(s_s!="nme").dropna()   #不满足where条件的会赋值为 NAN
+
+分布详情
+1、np.histogram(amh_s.values,bins=np.arange(amh_s.min(),amh_s.max()+10,10))
+2、amh_s.value_counts(bins=np.arange(amh_s.min(),amh_s.max()+10,10)) 
+注意上面两种方法左右开闭区间
+
+分类占比
+tsc_s.value_counts(normalize=True).sort_index()
