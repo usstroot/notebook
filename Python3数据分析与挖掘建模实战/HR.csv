@@ -1,4 +1,4 @@
-satisfaction_level,last_evaluation,number_project,average_montly_hours,time_spend_company,Work_accident,left,promotion_last_5years,sales,salary
+satisfaction_level,last_evaluation,number_project,average_monthly_hours,time_spend_company,Work_accident,left,promotion_last_5years,department,salary
 0.38,0.53,2,157,3,0,1,0,sales,low
 0.8,0.86,5,262,6,0,1,0,sales,medium
 0.11,0.88,7,272,4,0,1,0,sales,medium
@@ -14998,3 +14998,6 @@ satisfaction_level,last_evaluation,number_project,average_montly_hours,time_spen
 0.37,0.53,2,143,3,0,1,0,support,low
 0.11,0.96,6,280,4,0,1,0,support,low
 0.37,0.52,2,158,3,0,1,0,support,low
+,0.52,2,158,3,0,1,0,support,low
+,999999,2,158,3,0,1,0,sale,low
+0.7,0.4,2,158,2,0,1,0,sale,nme
