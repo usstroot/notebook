@@ -1,4 +1,4 @@
-name: example-environment
+name: environment
 channels:
   - conda-forge
 dependencies:
@@ -13,6 +13,4 @@ dependencies:
   - dask
   - scipy
   - seaborn
-  - pip
-  - pip:
-    - sklearn
+  - scikit-learn
