@@ -1,5 +1,5 @@
 # notebook
-- [进入该项目Jupyter界面](https://mybinder.org/v2/gh/usstroot/notebook/master)
+- [进入该项目JupyterLab界面](https://mybinder.org/v2/gh/usstroot/notebook/master?urlpath=lab)
 - [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/usstroot/notebook/master)
 
 ## 站在巨人的肩上
