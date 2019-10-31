@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## 欢迎来到 Cloud Studio
 
 我们在 Machine Learing 环境中为您预先安装了 IPython、jupyter、ggplot、pandas、
@@ -54,3 +55,17 @@ _**注：您也可以在操作完第 4 步登录 Jupyter 之后，直接在【Fi
 Happy Coding！
 
 ![logo](https://dn-coding-net-production-pp.qbox.me/0905c8a9-5b33-4819-83d4-3cd0528b0c86.png)
+=======
+# notebook
+- [进入该项目JupyterLab界面](https://mybinder.org/v2/gh/usstroot/notebook/master?urlpath=lab)
+- [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/usstroot/notebook/master)
+
+## 站在巨人的肩上
+## Standing on Shoulders of Giants.
+
+**玩转说明**
+1. 登录`Binder`https://mybinder.org
+2. 复制github仓库地址：`https://github.com/usstroot/notebook`到下图①的位置,然后点击*Launch*
+3. 耐心等待一会，就会克隆本仓库到Binder提供的交换界面，然后就会看到熟悉的`Jupyter Notebook`
+![image](https://github.com/usstroot/notebook/blob/master/img/mybinder-ui-start.png)
+>>>>>>> branch 'master' of https://github.com/usstroot/notebook
